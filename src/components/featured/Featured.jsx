@@ -24,12 +24,19 @@ const Featured = () => {
             and bustle of daily life and prioritize their mental and physical
             health.
             <br />
+            <br />
             Wellness travel offers a variety of experiences, from meditation
             retreats in serene landscapes to luxury spa resorts with holistic
             treatments. These trips often include activities such as yoga,
             nutrition workshops, and stress-relief exercises, providing
             travelers with tools and techniques to enhance their overall
             well-being.
+            <br />
+            <br />
+            Travel is evolving in exciting ways, driven by a desire for
+            sustainability, flexibility, and well-being. Whether you’re drawn to
+            eco-friendly adventures, the digital nomad lifestyle, or wellness
+            retreats.
           </p>
         </div>
       </div>
